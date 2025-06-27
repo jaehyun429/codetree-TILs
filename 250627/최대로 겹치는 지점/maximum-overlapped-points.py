@@ -1,7 +1,7 @@
 N = int(input())
 
 
-num_list = [0] * 100
+num_list = [0] * 101
 
 for i in range (N):
     a, b = list(map(int, input().split()))
