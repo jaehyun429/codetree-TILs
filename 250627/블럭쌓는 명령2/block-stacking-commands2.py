@@ -2,7 +2,7 @@ N, K= map(int, input().split())
 
 
 
-num_list = [0] * N
+num_list = [0] * 100
 
 for i in range (K):
     a, b = list(map(int, input().split()))
